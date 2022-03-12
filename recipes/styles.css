@@ -1,0 +1,58 @@
+h1 {
+    color: #a17188;
+    text-align: center;
+    font-family: "copperplate", "helvetica", san-serif;
+    font-weight: 900;
+    font-size: 70px;
+}
+
+h2 {
+    color: rgb(129,176,189);
+    font-weight: 800;
+    font-size: 50px;
+    font-family: "garamond", "times new roman", sans-serif;
+    text-align: center;
+}
+
+h3 {
+    color: hsla(271.3,20.3%,53.7%,1);
+    font-weight: 700;
+    font-size: 25px;
+    font-family: "garamond", "times new roman", sans-serif;
+    background-color:cornsilk;
+}
+
+h4 {
+    color: #e599b2ff;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "garamond", "times new roman", sans-serif;
+}
+
+.bold {
+    color:indigo;
+}
+
+.italics {
+    color:cornflowerblue;
+}
+
+.vegan.italics {
+    font-weight: 500;
+    text-align: center;
+}
+
+.vegan {
+    background-color: rgba(161,113,136,0.5);
+    font-family: "copperplate", "verdana", sans-serif;
+}
+
+li {
+    background-color: lightgray;
+    font-family: "arial", "garamond", sans-serif;
+}
+
+.fridge {
+    color:teal;
+    font-weight: 500;
+}
