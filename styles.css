@@ -1,0 +1,19 @@
+#title {
+    color: #a17188;
+    text-align: center;
+    font-family: "copperplate", "monaco", sans-serif;
+    font-weight: 900;
+    font-size: 98px;
+}
+
+button {
+    background-color: rgba(161,113,136,0.7);
+    text-align: center;
+    font-family: georgia, helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 33px;
+}
+
+button.choco {
+    background-color: rgba(129,176,189,0.7);
+}
