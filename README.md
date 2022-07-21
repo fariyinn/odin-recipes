@@ -1,4 +1,4 @@
-# odin-recipes
+# odin recipes
 
 ## Project objective
 To build a basic website with an index page and links to 3 recipe pages
